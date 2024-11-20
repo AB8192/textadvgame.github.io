@@ -32,11 +32,11 @@ The game involves receiving cryptic letters, solving ciphers, and making critica
 
 1. **Clone the Repository** :
    ```bash
-   git clone https://github.com/AB8192/zodiac.github.io
+   git clone https://github.com/AB8192/zodiacfiles.github.io
    
 2. **Navigate to Directory**
    ```bash
-     cd zodiac.github.io
+     cd zodiacfiles.github.io
 3. **Run the Game**
    ```bash
      python zodiac.py
